@@ -1,0 +1,31 @@
+.azul {
+  background-color: blue;
+  float: left;
+  margin: 50px;
+}
+
+.vermelho {
+  background-color: red;
+  float: left;
+  margin: 50px;
+}
+
+.preta {
+  background-color: black;
+  float: left;
+  margin: 50px;
+}
+
+.verde {
+  background-color: green;
+  float: left;
+  margin: 50px;
+}
+
+.amarela {
+  background-color: yellow;
+  float: left;
+  margin: 50px;
+  width: 100px;
+  height: 100px;
+}
