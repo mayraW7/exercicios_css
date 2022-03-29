@@ -1,0 +1,32 @@
+.esquerda {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: antiquewhite;
+}
+
+.direita {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: burlywood;
+}
+
+.esquerda .box {
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+}
+.clear {
+  clear: both;
+}
+
+.direita .box {
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: right;
+}

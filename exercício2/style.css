@@ -1,0 +1,29 @@
+div {
+  background-color: black;
+  width: 250px;
+  height: 250px;
+}
+
+.um {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.dois {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.tres {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.quatro {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}

@@ -1,0 +1,23 @@
+.um {
+  background-color: black;
+  color: white;
+  width: 600px;
+  height: 300px;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: end;
+  font-size: 32px;
+}
+
+.dois {
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  width: 1000px;
+  height: 300px;
+  border: 5px solid red;
+  padding: 10px;
+  text-align: end;
+  font-size: 32px;
+  overflow: scroll;
+}
